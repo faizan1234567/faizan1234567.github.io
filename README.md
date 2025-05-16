@@ -1,1 +1,10 @@
-# faizan1234567.github.io
+# AI Developer
+
+### Education
+education here
+
+### Work Experience
+work experience here
+
+### Projects 
+list of projects here
