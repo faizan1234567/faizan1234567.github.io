@@ -1,9 +1,16 @@
-# 👨‍💻 Muhammad Faizan
 
-**Machine Learning Engineer | Researcher | Robotics Enthusiast**  
-Expert in Deep Learning, Computer Vision, and Medical Image Analysis
-
+# AI Engineer 
 ---
+
+## 👨‍💻 Biography
+
+Muhammad Faizan is a passionate researcher and engineer with a strong background in **deep learning, computer vision, and medical image analysis**. He holds a **Master’s degree in Robotics and Intelligent Machine Engineering** from the **National University of Sciences and Technology (NUST)**, where he graduated top of his class.
+
+Faizan's contributions have been recognized at international forums, including a **Best Paper Award at the 5th IEEE International Conference on Communication Technologies (ComTech-25)**. He has also developed and open-sourced the **RRL Dataset**, consisting of over 10,000 annotated images for image fusion and locomotive safety.
+
+In Fall 2025, Faizan will be joining the prestigious **Cusack Lab at Trinity College Dublin** as a **full-time PhD student**, where he aims to advance research in **computational neuroscience and AI-driven neuroimaging**.
+
+
 
 ## 🛠️ Technical Skills
 - **Languages**: Python, C++, SQL, MATLAB
@@ -14,20 +21,24 @@ Expert in Deep Learning, Computer Vision, and Medical Image Analysis
 ---
 
 ## 🎓 Education
+- **Doctor of Philosophy (PhD), Psychology**  
+  Trinity College Dublin (TCD), Dublin, Ireland  
+  _Sep 2025 – Jun 2029_
+
 - **MS, Robotics and Intelligent Machine Engineering**  
   National University of Sciences and Technology (NUST), Islamabad  
-  _Sep 2022 – Feb 2025 | CGPA: 3.85/4.00_
+  _Sep 2022 – Feb 2025_
 
 - **BS, Mechatronics Engineering**  
   University of Engineering and Technology (UET), Peshawar  
-  _Sep 2016 – Sep 2020 | CGPA: 3.35/4.00_
+  _Sep 2016 – Sep 2020_
 
 ---
 
 ## 💼 Work Experience
 
 ### 🏢 Research Associate @ Radar Research Lab, NUST  
-_Sep 2023 – Apr 2025_
+_Sep 2023 – May 2025_
 - Developed **RailGuard**, an AI-driven rail track obstacle detection and localization system using multi-modal data fusion.
 - Focused on edge deployment optimization for real-time driver assistance.
 
@@ -52,7 +63,7 @@ _Jan 2021 – May 2021_
 ### 🚦 RailGuard – AI-based Rail Track Obstacle Detection
 - Designed a multi-modal data fusion pipeline using infrared and optical imagery.
 - Developed distance estimation models for accurate obstacle localization.
-- Deployed lightweight models on **Jetson Nano** for real-time inference.
+- Deployed lightweight models on **Jetson Orin Nano** for real-time inference.
 - Enhanced railway safety under foggy and low-visibility conditions.
 
 ### 🫁 Chest Radiograph Localization using Grad-CAM
@@ -90,14 +101,19 @@ _Jan 2021 – May 2021_
 
 ---
 
-## 🏅 Talks & Awards
-- 🏆 **Best Paper Award** – COMETECH25 for RAG Powered LLMs for QA.
-- 🎙️ Guest speaker on AI model interpretability & edge deployment at academic seminars.
+## 📰 News & Updates
 
+- 🏆 **Best Paper Award:** Thrilled to share that our paper won the **Best Paper Award** at the **5th IEEE International Conference on Communication Technologies (ComTech-25)**.
+
+- 🎓 **PhD Journey:** Excited to announce that I will be joining the **Cusack Lab at Trinity College Dublin** as a **full-time PhD student** starting **Fall 2025**.
+
+- 🧠 **Master's Thesis Defense:** Successfully defended my Master's thesis titled **"Novel Neural Network Architecture for Multimodal Brain Imaging"** on **25 February 2025**, graduating with the **highest GPA in my batch**.
+
+- 🎖️ **Prime Minister's High Achievers Award:** Honored to receive the **Prime Minister's High Achievers Award at NUST** for being the **top student in my class**.
 ---
 
 ## 📊 Datasets
-- **RRL Dataset**: 10,000+ annotated images for image fusion, object detection, and tracking in rail safety applications. (To be open-sourced soon.)
+- **RRL Dataset**: 10,000+ annotated images for image fusion, object detection, and tracking in rail safety applications. [RRL dataset](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
 
 ---
 
