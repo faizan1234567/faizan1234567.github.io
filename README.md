@@ -69,8 +69,8 @@ _Jan 2021 – May 2021_
 
 ### 🫁 Chest Radiograph Localization using Grad-CAM
 - Trained SOTA neural networks (ResNet18, VGG16, DenseNet121) on a radiograph database with 21,165 examples categorized as COVID-19, Pneumonia, Lung opacity, and Normal, achieving a mean F1-score of 0.963 with DenseNet121.
-- Implemented explainability using Gradient-weighted Class Activation Mapping (Grad-CAM) to highlight regions with abnormalities
-![highlight](/assets/chest_radiographs.png)
+- Implemented explainability using Gradient-weighted Class Activation Mapping (Grad-CAM) to highlight regions with abnormalities.
+![highlight](/assets/highlight_chest_radiographs.PNG)
 
 ### 🧠 3D SegUX-Net for Brain Tumor Segmentation
 - Developed 3D SegUX-Net, a novel U-shaped encoder-decoder architecture for volumetric medical image segmentation, integrating large kernel depth-wise convolution and point-wise convolution to enhance receptive fields while maintaining computational efficiency.
