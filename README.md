@@ -65,23 +65,21 @@ _Jan 2021 – May 2021_
 - Developed distance estimation models for accurate obstacle localization.
 - Deployed lightweight models on **Jetson Orin Nano** for real-time inference.
 - Enhanced railway safety under foggy and low-visibility conditions.
+![RailGuard overview](/assets/railguard_pic.png)
 
 ### 🫁 Chest Radiograph Localization using Grad-CAM
-- Built a lightweight CNN for thoracic disease classification in chest X-rays.
-- Integrated Grad-CAM for model explainability and region localization.
-- Achieved high sensitivity with minimal computational overhead.
-- Focused on explainable AI for medical diagnostics.
+- Trained SOTA neural networks (ResNet18, VGG16, DenseNet121) on a radiograph database with 21,165 examples categorized as COVID-19, Pneumonia, Lung opacity, and Normal, achieving a mean F1-score of 0.963 with DenseNet121.
+- Implemented explainability using Gradient-weighted Class Activation Mapping (Grad-CAM) to highlight regions with abnormalities
+![highlight](/assets/chest_radiographs.png)
 
 ### 🧠 3D SegUX-Net for Brain Tumor Segmentation
-- Developed a novel 3D segmentation network for multi-modal brain MRI data.
-- Achieved superior dice coefficient with optimized parameters.
-- Balanced computational efficiency for large-scale inference.
-- Targeted applications in neuroimaging and tumor analysis.
+- Developed 3D SegUX-Net, a novel U-shaped encoder-decoder architecture for volumetric medical image segmentation, integrating large kernel depth-wise convolution and point-wise convolution to enhance receptive fields while maintaining computational efficiency.
+- Outperformed state-of-the-art models, achieving significantly higher Mean Dice (2.18%) and demonstrating superior segmentation accuracy compared to SwinUNETR (1.08%) and SegResNet (0.29%), while maintaining competitive efficiency.
+![Comparison of 3D SegUX-Net with SOTA](/assets/brats2023_seguxnet.png)
 
 ### ⚡ Lightweight GPT for Edge Deployment
-- Worked on compressing transformer architectures for edge devices.
-- Balanced accuracy and model size for real-time applications.
-- Focused on low-latency inference for resource-constrained environments.
+- Implemented a lightweight transformer decoder architecture for character-level text generation, inspired by Andrej Karpathy’s YouTube lecture.
+- Trained the model on William Shakespeare’s dataset with 5000 iterations on NVIDIA Tesla T4, generating text that resembles Shakespeare’s style, producing grammatically correct text with occasional errors due to the architecture, dataset, and compute constraints.
 
 ---
 
