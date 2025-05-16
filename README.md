@@ -110,6 +110,7 @@ _Jan 2021 – May 2021_
 - 🧠 **Master's Thesis Defense:** Successfully defended my Master's thesis titled **"Novel Neural Network Architecture for Multimodal Brain Imaging"** on **25 February 2025**, graduating with the **highest GPA in my batch**.
 
 - 🎖️ **Prime Minister's High Achievers Award:** Honored to receive the **Prime Minister's High Achievers Award at NUST** for being the **top student in my class**.
+
 ---
 
 ## 📊 Datasets
