@@ -13,10 +13,10 @@ In Fall 2025, Faizan will be joining the prestigious **Cusack Lab at Trinity Col
 
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, C++, SQL, MATLAB
-- **Frameworks**: PyTorch, TensorFlow, OpenCV
-- **Technologies**: YOLOv5, StrongSORT, NVIDIA Jetson, Edge AI Deployment, Raspberry Pi
-- **Tools**: Git, Node-RED, LabelImg, Roboflow, Scikit-learn
+- **Languages**: Python, C++, C, R, MATLAB
+- **Frameworks**: PyTorch, TensorFlow, OpenCV, MONAI, Scikit-learn
+- **Technologies**: NVIDIA Jetson, Edge AI Deployment, Raspberry Pi
+- **Tools**: Git, Node-RED
 
 ---
 
@@ -85,17 +85,13 @@ _Jan 2021 – May 2021_
 
 ## 📄 Publications & Papers
 
-1. **Muhammad Faizan, et al.**  
-   *"RAG Powered LLMs for QA: Evolution, Challenges, Applications, and Future Directions"*  
-   _Accepted at COMETECH25 (5th IEEE International Conference on Communication Technologies), 2025_ ✅
+1. Hafiz Muhammad Ali Zeeshan, Muhammad Faizan, Usman Zia. ”RAG Powered LLMs for QA: Evolution, Challenges, Applications, and Future Directions” in Proceedings of the 5th International Conference on Communication Technologies (ComTech-2025), 2025 (Best Paper Award 2025).
 
-2. **Muhammad Faizan, et al.**  
-   *"RailGuard: Neural Architecture for Image Fusion on Edge Devices"*  
-   _Submitted to IEEE Transactions on Vehicular Technology, under review_ 🕒
+2. Ahmad, Afaq, Arshid Ali, Fadia Ali Khan, Zeeshan Habib, Zia Ud Din, Muhammad Zulfiqar Ali, Muhammad Faizan. ”Vehicle Recognition using Multi-Layer Perceptron and SMOTE Technique,” in Proceedings of the 2nd International Conference of Smart Systems and Emerging Technologies (SMARTTECH), Riyadh, Saudi Arabia, 2022.
 
-3. **Muhammad Faizan, et al.**  
-   *"Vehicle Recognition using Multi-Layer Perceptron and SMOTE Technique"*  
-   _Published in SMARTTECH Conference Proceedings, 2021_ ✅
+3. Faizan, M., Ali, S., & Zia, U. (2025). 3D SegUX-Net: Multi-Modal MRI Segmentation Using Large Kernels. School of Mechanical & Manufacturing Engineering, National University of Sciences & Technology, Islamabad, Pakistan. (Manuscript Submitted)
+
+4. Faizan, M., Cheema, H. M., Rafique, A., & Hammad, M. (2025). RailGuard: A Detection-Guided Infrared and Visible Image Fusion Framework for Enhanced Rail Safety. School of Interdisciplinary Engineering & Sciences, National University of Sciences & Technology, Islamabad, Pakistan. (Manuscript Submitted)
 
 ---
 
