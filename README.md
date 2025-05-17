@@ -77,13 +77,13 @@ _Jan 2021 – May 2021_
 - Outperformed state-of-the-art models, achieving significantly higher Mean Dice (2.18%) and demonstrating superior segmentation accuracy compared to SwinUNETR (1.08%) and SegResNet (0.29%), while maintaining competitive efficiency.
 ![Comparison of 3D SegUX-Net with SOTA](/assets/brats2023_seguxnet.png)
 
-### ⚡ Lightweight GPT for Edge Deployment
+### ⚡ Lightweight GPT Model for Text Generation
 - Implemented a lightweight transformer decoder architecture for character-level text generation, inspired by Andrej Karpathy’s YouTube lecture.
 - Trained the model on William Shakespeare’s dataset with 5000 iterations on NVIDIA Tesla T4, generating text that resembles Shakespeare’s style, producing grammatically correct text with occasional errors due to the architecture, dataset, and compute constraints.
 
 ---
 
-## 📄 Publications & Papers
+## 📄 Publications 
 
 1. Hafiz Muhammad Ali Zeeshan, Muhammad Faizan, Usman Zia. ”RAG Powered LLMs for QA: Evolution, Challenges, Applications, and Future Directions” in Proceedings of the 5th International Conference on Communication Technologies (ComTech-2025), 2025 (Best Paper Award 2025).
 
