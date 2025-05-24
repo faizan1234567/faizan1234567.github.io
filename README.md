@@ -16,7 +16,8 @@ In Fall 2025, Faizan will be joining the prestigious **Cusack Lab at Trinity Col
 - **Languages**: Python, C++, C, R, MATLAB
 - **Frameworks**: PyTorch, TensorFlow, OpenCV, MONAI, Scikit-learn
 - **Technologies**: NVIDIA Jetson, Edge AI Deployment, Raspberry Pi
-- **Tools**: Git, Node-RED
+- **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, Jupyter lab
+- **Libraries**: Pandas, NumPy, Matplotlib, ITK, OpenCV, Scipy, Seaborn, MONAI, Spacy
 
 ---
 
