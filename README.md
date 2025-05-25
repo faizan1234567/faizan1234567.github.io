@@ -18,6 +18,7 @@ In Fall 2025, Faizan will be joining the prestigious **Cusack Lab at Trinity Col
 - **Technologies**: NVIDIA Jetson, Edge AI Deployment, Raspberry Pi
 - **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, Jupyter lab
 - **Libraries**: Pandas, NumPy, Matplotlib, ITK, OpenCV, Scipy, Seaborn, MONAI, Spacy
+
 ---
 
 ## 🎓 Education
@@ -104,6 +105,7 @@ _Jan 2021 – May 2021_
 - 🧠 **Master's Thesis Defense:** Successfully defended my Master's thesis titled **"Novel Neural Network Architecture for Multimodal Brain Imaging"** on **25 February 2025**, graduating with the **highest GPA in my batch**.
 
 - 🎖️ **Prime Minister's High Achievers Award:** Honored to receive the **Prime Minister's High Achievers Award at NUST** for being the **top student in my class**.
+
 ---
 ## 📊 Datasets
 - **RRL Dataset**: 10,000+ annotated images for image fusion, object detection, and tracking in rail safety applications. [RRL dataset](https://figshare.com/articles/dataset/rrl_data_zip/28929923?file=54194006)
