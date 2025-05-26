@@ -8,7 +8,7 @@ Muhammad Faizan is a passionate researcher and engineer with a strong background
 
 Faizan's contributions have been recognized at international forums, including a **Best Paper Award at the 5th IEEE International Conference on Communication Technologies (ComTech-25)**. He has also developed and open-sourced the **RRL Dataset**, consisting of over 10,000 annotated images for image fusion and locomotive safety.
 
-In Fall 2025, Faizan will be joining the prestigious **Cusack Lab at Trinity College Dublin** as a **full-time PhD student**, where he aims to advance research in **computational neuroscience and AI-driven neuroimaging**.
+In Fall 2025, he will be joining the prestigious **Cusack Lab at Trinity College Dublin** as a **full-time PhD student**, where he aims to advance research in **computational neuroscience and AI-driven neuroimaging**.
 
 
 
