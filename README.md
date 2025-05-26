@@ -13,7 +13,7 @@ In Fall 2025, he will be joining the prestigious **Cusack Lab at Trinity College
 
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, C++, C, R, MATLAB
+- **Languages**: Python, C++, C, R,  MATLAB
 - **Frameworks**: PyTorch, TensorFlow, OpenCV, MONAI, Scikit-learn
 - **Technologies**: NVIDIA Jetson, Edge AI Deployment, Raspberry Pi
 - **Developer Tools**: Git, Docker, Google Cloud Platform, VS Code, Visual Studio, PyCharm, Jupyter lab
